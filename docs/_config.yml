@@ -21,13 +21,12 @@
 title: Kita Shillingford
 email: kitashillingford@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  <a rel="me" href="https://infosec.exchange/@KitaS">Mastodon</a>
-
   Hi, my name is Kita Shillingford.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kshill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kshillin2011
 github_username:  kshill
+mastadon: <a rel="me" href="https://infosec.exchange/@KitaS">Mastodon</a>
 
 # Build settings
 theme: minima
